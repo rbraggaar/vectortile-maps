@@ -18,18 +18,18 @@
     "openmaptiles:version": "3.x",
     "maputnik:renderer": "mbgljs"
   },
-  "center": [0, 0],
-  "zoom": 1,
+  "center": [52, 5],
+  "zoom": 6.77,
   "bearing": 0,
   "pitch": 0,
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key={key}"
+      "url": "mbtiles://{netherlands-vector}"
     }
   },
   "sprite": "https://openmaptiles.github.io/osm-bright-gl-style/sprite",
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key={key}",
+  "glyphs": "https://orangemug.github.io/font-glyphs/glyphs/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
