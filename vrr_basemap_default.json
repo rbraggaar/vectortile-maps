@@ -1683,7 +1683,7 @@
       ],
       "layout": { "line-join": "round" },
       "paint": {
-        "line-color": "#e9ac77",
+        "line-color": "#d2cdc8",
         "line-opacity": 1,
         "line-width": {
           "base": 1.2,
@@ -1859,7 +1859,7 @@
       ],
       "layout": { "line-join": "round" },
       "paint": {
-        "line-color": "#fea",
+        "line-color": "#f5f5f3",
         "line-width": {
           "base": 1.2,
           "stops": [
