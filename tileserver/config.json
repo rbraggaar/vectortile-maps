@@ -23,6 +23,10 @@
       "style": "vrr_basemap_default.json",
       "serve_rendered": true
     },
+    "osmcarto": {
+      "style": "osm_carto.json",
+      "serve_rendered": true
+    },
     "basic": {
       "style": "basic.json",
       "tilejson": {
@@ -40,7 +44,7 @@
   },
   "data": {
     "netherlands-vector": {
-      "mbtiles": "netherlands-2017.mbtiles"
+      "mbtiles": "netherlands-211021.mbtiles"
     }
   }
 }
